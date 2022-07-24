@@ -1,0 +1,18 @@
+fileignoreconfig:
+- filename: src/main/resources/db/V1.1_CreateUsersTable.sql
+  checksum: 62ec0f64cfb04f2d61f708eb01f72b8f6f918aab832aec7d1ea049a4c9d40763
+- filename: src/main/resources/db/V1.2_CreateProductsTable.sql
+  checksum: 327b45a88ba7c0cd8702cf92dd67271182330c5c9c47f75165f5346ea368d4bc
+- filename: src/main/resources/db/V1.3_AlterNameFieldInUsersTable.sql
+  checksum: ce3bb186d525efd03797fdfb35a668272ef54dbeeab6bbcefc384529861932f9
+- filename: src/main/resources/db/V1.4_AddColumnPrimaryPhoneNumberInUsersTable.sql
+  checksum: 9b1d7a2c05338254970f6e6485d68cc633a8aa6553c7b5bb840d79f73b3296ae
+- filename: src/main/resources/db/V1.5_CreateCartsTable.sql
+  checksum: d4237b7f5ec72d40ed3ddb55a8fb77b9be4ae54881ce6ad0913d4f20821dca43
+- filename: src/main/resources/db/V1.6_CreateCartItemsTable.sql
+  checksum: b9e7c93157711a4e5e42af58a3c04636a4fad020af1984a86fb2a1cc5bf27220
+- filename: .idea/workspace.xml
+  checksum: ef9e08668ce64c04edf15f7e7db6075ee226db20cece131d38bf4fdf43e21cc3
+- filename: build.gradle
+  checksum: 13d463e5b4ad1e73aa6498bfc071a495ba69ba8c8d75eb366c2401797377ca87
+version: ""
